@@ -24,7 +24,7 @@
  ;; Example for Markdown users: "[[Work]]\n  -\n- [[Family]]\n  -\n"
  ;; Example for Org mode users: "** [[Work]]\n***\n** [[Family]]\n***\n"
  :default-templates
- {:journals "[[Work]]\n  -\n- [[Family]]\n  -\n"}
+ {:journals ""}
 
  ;; Whether to enable hover on tooltip preview feature
  ;; Default is true, you can also toggle this via setting page
