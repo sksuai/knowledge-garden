@@ -37,8 +37,10 @@ collapsed:: true
 			- [内部链接](<http://localhost:7026/reading/2293?title=泰坦巨兽终极图鉴#id=1643770771666>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2293?title=泰坦巨兽终极图鉴#id=1643770771666>)
 			  collapsed:: false
 	- #+BEGIN_QUOTE
+collapsed:: true
 	    氧气破坏者 
 	    #+END_QUOTE
+	    collapsed:: true
 		- Note
 			- #+BEGIN_QUOTE
 			   
