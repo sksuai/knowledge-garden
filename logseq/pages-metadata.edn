@@ -1,4 +1,7 @@
-[{:block/name "60d34662-6747-46cd-a790-6dcb691b0256",
+[{:block/name "23-简悦 + logseq + github page 无代码全自动化知识管理发布方案@annote",
+  :block/created-at 1645531061244,
+  :block/updated-at 1645531061244}
+ {:block/name "60d34662-6747-46cd-a790-6dcb691b0256",
   :block/created-at 1643955922696,
   :block/updated-at 1643955922696}
  {:block/name "61fe1b3a-8356-4f20-b8f1-f5f4ed21ee7b",
@@ -46,6 +49,9 @@
  {:block/name "logseq theme",
   :block/created-at 1643955922696,
   :block/updated-at 1643955922696}
+ {:block/name "logseq 如何同步到 github？",
+  :block/created-at 1645531061244,
+  :block/updated-at 1645531061244}
  {:block/name "now",
   :block/created-at 1643949092472,
   :block/updated-at 1643949092472}
@@ -79,9 +85,6 @@
  {:block/name "怪兽宇宙时间线大盘点",
   :block/created-at 1644042761566,
   :block/updated-at 1644042761566}
- {:block/name "我如何使用 notion 管理简悦的一切 - 少数派",
-  :block/created-at 1645258602546,
-  :block/updated-at 1645258602546}
  {:block/name "拉顿",
   :block/created-at 1644042761566,
   :block/updated-at 1644042761566}
@@ -97,15 +100,9 @@
  {:block/name "科普向：拉顿，摩斯拉，王者基多拉的小介绍",
   :block/created-at 1644042761565,
   :block/updated-at 1644042761565}
- {:block/name "简悦",
-  :block/created-at 1645258602546,
-  :block/updated-at 1645258602546}
  {:block/name "简悦 + logseq + github page 无代码全自动化知识管理发布方案",
   :block/created-at 1644032327204,
   :block/updated-at 1644057083994}
- {:block/name "简悦/案例",
-  :block/created-at 1645258602546,
-  :block/updated-at 1645258602546}
  {:block/name "践行极简理念，高效数字生活",
   :block/created-at 1644032327204, 
   :block/updated-at 1644032327204}]
