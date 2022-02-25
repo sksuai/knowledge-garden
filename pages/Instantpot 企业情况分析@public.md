@@ -1,0 +1,43 @@
+title:: Instantpot 企业情况分析
+
+- # Instantpot 的发展历程如何？
+	- ((62122a7d-4311-4d9e-b692-7947cebad19e))
+	- ((62122a7d-6a96-4a37-bf06-d4a84ae72a23))
+	-
+- # Instantpot 创始人基本情况如何？
+	- ((62122a7d-5476-49b8-8731-3e557a1367b2))
+	- ((62122a7d-fe0f-4d0c-aa60-8da97ef86141))
+	- ((62122a7d-6dac-40ff-88fe-1cb3fcfdc72d))
+	- ((62122a7d-5baf-477f-8a2d-8e2ee1d039e5))
+		-
+- # Instantpot 的公司情况如何？
+	- ((62122a7d-fe0f-4d0c-aa60-8da97ef86141))
+	- ((62122a7d-20e7-44b0-82cf-f8bbfe499d2b))
+	- ((62122a7d-b37a-4f5d-9bfb-7e41f67fa5ee))
+	- ((62122a7d-7d06-4259-9f2f-ae57cead8cdc))
+	- ((62122a7d-5476-49b8-8731-3e557a1367b2))
+	- ((62122a7d-e5c3-4323-8116-e23618115773))
+	- ((62122a7d-4e56-4b90-8323-76c967af761b))
+	- ((62122a7d-69ff-49cd-ae71-2d84dd8a439b))
+	- ((62122a7d-b188-49e4-89f7-afb4917ea89d))
+	- ((62122a7d-35b5-4e96-b156-bc92af0c17b1))
+		-
+- # Instantpot 的销售情况如何？
+	- ((62122a7d-57f1-43e1-9bc0-d11174022c8e))
+	- ((62122a7d-b17a-42f9-9121-7afd820afc44))
+	- ((620fa422-2fbb-4790-b93f-0545edd8a2eb))
+	- ((62122a7d-5ca0-4309-9185-f7489301249c))
+	- ((62122a7d-7f1c-46d4-ba5d-0b9ee4409eb4))
+- # Instantpot 的客户情况如何？
+	- ((62122a7d-4e89-4ece-a6c3-ce701d5cd50c))
+	- ((62122a7d-98b1-45c3-b44d-a05ba8f1917c))
+		-
+- # Instantpot 的优势是什么？
+	- ((62122a7d-8048-44e4-8f43-38aaeba777f7))
+	- ((62122a7d-bd3f-463f-8799-26a7c1e51464))
+	-
+- # Instantpot 相关企业情况如何？
+	- ((62122a7d-89ce-403e-b200-fcd3f4f578a6))
+	- ((62122a7d-b2d9-453d-b951-3be2ad0fd2d1))
+	- ((62122a7d-0506-48e5-a1f7-5b065045f9a1))
+	- Corelle Brands 总部在伊利诺伊州，2017 年 4 月被 Cornell Capital 收购。所以 Corelle 与 instantpot 合并，背后是 Cornell Capital 在操盘。instantpot 总部在加拿大的安大略省渥太华，旗下厨房小家电专为繁忙的家庭设计。
