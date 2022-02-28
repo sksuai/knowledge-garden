@@ -1,0 +1,55 @@
+title:: instantpot 企业情况分析
+
+- #+BEGIN_CAUTION
+  Instantpot 把自己定位为时效产品企业,且该公司善于利用互联网意见领袖营销,我司可吸收该竞品的优点,甚至做到更好.
+  #+END_CAUTION
+- # Instantpot 的发展历程如何？
+	- #+BEGIN_NOTE
+	  Instantpot 在发展初期充分利用社交媒体和美食 kol 的影响力进行口碑营销.
+	  #+END_NOTE
+		- instantpot 发展初期迎合了人们追求健康美好的天时，在发展初期便接触到了美食作家和素食主义者，算是团结了一切可以团结的力量。后期还允许美食作家用 instantpot 品牌直接出书近 1500 本。
+		- instantpot 的成功不可复制，在发展初期，抓住了 Facebook 大力推广群组功能的特殊时期的天时。18 年Facebook 群组粉丝就超过了 340 万。
+	-
+- # Instantpot 创始人基本情况如何？
+	- #+BEGIN_NOTE
+	  Instantpot 的创始人是典型理工男,基于创业失败经验,非常注重用户口碑.
+	  #+END_NOTE
+		- ((62122a7d-5476-49b8-8731-3e557a1367b2))
+		- ((62122a7d-fe0f-4d0c-aa60-8da97ef86141))
+		- ((62122a7d-6dac-40ff-88fe-1cb3fcfdc72d))
+		- ((62122a7d-5baf-477f-8a2d-8e2ee1d039e5))
+			-
+- # Instantpot 的公司情况如何？
+	- #+BEGIN_NOTE
+	  Instantpot 产品符合了欧美客户对于时效性的追求,利用智能芯片实现产品多功能,降低了客户购买成本,同时抓住天时,重点利用 Facebook 低成本获客.
+	  #+END_NOTE
+		- ((62122a7d-fe0f-4d0c-aa60-8da97ef86141))
+		- ((62122a7d-20e7-44b0-82cf-f8bbfe499d2b))
+		- ((62122a7d-b37a-4f5d-9bfb-7e41f67fa5ee))
+		- ((62122a7d-7d06-4259-9f2f-ae57cead8cdc))
+		- ((62122a7d-5476-49b8-8731-3e557a1367b2))
+		- instantpot 利用智能芯片，将电高压锅、慢炖锅、酸奶机等多种功能合一，降低了客户购买成本，提升了效率。同时在好的天时下，通过社交媒体，低成本获客裂变。
+		- ((62122a7d-4e56-4b90-8323-76c967af761b))
+		- ((62122a7d-69ff-49cd-ae71-2d84dd8a439b))
+		- ((62122a7d-b188-49e4-89f7-afb4917ea89d))
+		- ((62122a7d-35b5-4e96-b156-bc92af0c17b1))
+			-
+- # Instantpot 的销售情况如何？
+	- ((62122a7d-57f1-43e1-9bc0-d11174022c8e))
+	- ((62122a7d-b17a-42f9-9121-7afd820afc44))
+	- ((620fa422-2fbb-4790-b93f-0545edd8a2eb))
+	- 16 年的 prime day 一天卖出 21 万 5 千台；17 年黑五促销期间，销量在Amazon、Target前 5，Kohl's前三。
+	- ((62122a7d-7f1c-46d4-ba5d-0b9ee4409eb4))
+- # Instantpot 的客户情况如何？
+	- ((62122a7d-4e89-4ece-a6c3-ce701d5cd50c))
+	- ((62122a7d-98b1-45c3-b44d-a05ba8f1917c))
+		-
+- # Instantpot 的优势是什么？
+	- instantpot 利用自身工程背景，利用传感器和芯片增强了对产品的控制力，例如可以煮出不同蛋黄熟读的鸡蛋。instantpot 还打算将此优势扩展到其他传统厨电品类。
+	- instantpot 以用户为中心，尊重美国各族裔的生活习惯开发产品。
+	-
+- # Instantpot 相关企业情况如何？
+	- ((62122a7d-89ce-403e-b200-fcd3f4f578a6))
+	- ((62122a7d-b2d9-453d-b951-3be2ad0fd2d1))
+	- ((62122a7d-0506-48e5-a1f7-5b065045f9a1))
+	- Corelle Brands 总部在伊利诺伊州，2017 年 4 月被 Cornell Capital 收购。所以 Corelle 与 instantpot 合并，背后是 Cornell Capital 在操盘。instantpot 总部在加拿大的安大略省渥太华，旗下厨房小家电专为繁忙的家庭设计。
