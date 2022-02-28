@@ -1,4 +1,4 @@
-title:: instantpot 企业情况分析
+title:: instantpot企业情况分析
 
 - #+BEGIN_CAUTION
   Instantpot 把自己定位为时效产品企业,且该公司善于利用互联网意见领袖营销,我司可吸收该竞品的优点,甚至做到更好.
