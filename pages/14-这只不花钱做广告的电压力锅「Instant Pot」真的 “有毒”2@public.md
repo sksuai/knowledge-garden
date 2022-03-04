@@ -6,7 +6,7 @@ title:: 这只不花钱做广告的电压力锅「Instant Pot」真的 “有毒
 - note:
 - instantpot 的创始人是渥太华华裔创业者 Robert Wang，计算机科学博士，曾在加拿大从事人工智能系统开发，08 年全球经济危机后开始创业。[[创始人信息]]   [📌](<http://localhost:7026/reading/14?title=这只不花钱做广告的电压力锅「Instant Pot」真的 “有毒”#id=1645180056172>)
 - Robert Wang 在没有风投的情况下，拿出 35 万美金创业。[[创始人信息]]   [📌](<http://localhost:7026/reading/14?title=这只不花钱做广告的电压力锅「Instant Pot」真的 “有毒”#id=1645180263484>)
-- 11 年-16 年，每年销售额增长一倍多，13年-16 年三年总销量 500 万。
+- 11 年-14 年，每年销售额增长一倍多，13年-16 年三年总销量 500 万。
   id:: 620fa422-2fbb-4790-b93f-0545edd8a2eb
   [[销售数据]]   [📌](<http://localhost:7026/reading/14?title=这只不花钱做广告的电压力锅「Instant Pot」真的 “有毒”#id=1645180370690>)
 - 16 年的 prime day 一天卖出 21 万 5 千台；17 年黑五促销期间，销量在Amazon、Target前 5，Kohl's前三。[[销售数据]]   [📌](<http://localhost:7026/reading/14?title=这只不花钱做广告的电压力锅「Instant Pot」真的 “有毒”#id=1645180964747>)
