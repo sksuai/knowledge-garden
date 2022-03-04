@@ -97,7 +97,7 @@
 				- https://upload-images.jianshu.io/upload_images/2678522-79bf80eb53d3639c.jpg?imageMogr2/auto-orient/strip|imageView2/2/format/webp
 			- 下图是美的自己的显示板。
 				- https://upload-images.jianshu.io/upload_images/2678522-37aa1f5568addc0a.jpg?imageMogr2/auto-orient/strip|imageView2/2/format/webp
-	- ## Instantpot 被收购相关情况如何？
+	- ## 5.5 Instantpot 被收购相关情况如何？
 		- **1.收购方情况。**
 			- ((62122a7d-4e56-4b90-8323-76c967af761b))
 			- ((62122a7d-0506-48e5-a1f7-5b065045f9a1))Corelle Brands 总部在伊利诺伊州，2017 年 4 月被 Cornell Capital 收购。所以 Corelle 与 instantpot 合并，背后是 Cornell Capital 在操盘。instantpot 总部在加拿大的安大略省渥太华，旗下厨房小家电专为繁忙的家庭设计。
