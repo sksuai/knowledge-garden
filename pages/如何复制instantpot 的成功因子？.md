@@ -1,5 +1,3 @@
-public:: true
-
 - #+BEGIN_CAUTION
   把自己定位为时效产品企业，善于利用口碑传播，我司可吸收该竞品优点，甚至做到更好。
   #+END_CAUTION

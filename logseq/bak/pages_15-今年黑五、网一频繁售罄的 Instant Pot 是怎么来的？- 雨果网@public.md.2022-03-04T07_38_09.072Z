@@ -1,0 +1,27 @@
+title:: 今年黑五、网一频繁售罄的 Instant Pot 是怎么来的？
+
+- tags: #[[SimpRead]] #instantpot
+- read date: [[2022-02-18  ]]
+- desc: 3.9 万条的评论，排名前三的亚马逊畅销厨房用品之一……
+- note:
+- 2016 年，Instantpot七合一多功能高压锅销量为 21.5 万台。
+  id:: 62122a7d-7d06-4259-9f2f-ae57cead8cdc
+  [[公司信息]]   [📌](<http://localhost:7026/reading/15?title=今年黑五、网一频繁售罄的 Instant Pot 是怎么来的？- 雨果网#id=1645178297079>)#instantpot
+- instantpot 高压锅是多功能厨具领头羊，15 年上涨 85%，16 年该产品销售额上涨 56%。15 年-17 年共售出该品类 500 万件。
+  id:: 62122a7d-b17a-42f9-9121-7afd820afc44
+  [[销售数据]]   [📌](<http://localhost:7026/reading/15?title=今年黑五、网一频繁售罄的 Instant Pot 是怎么来的？- 雨果网#id=1645178448502>)#instantpot
+- 17 年 instantpot 在 Facebook 上小组成员超 75 万，每个月新增成员数超过 1 万。每天多大 7000 条帖子，是销售者交流菜谱和做菜技巧。
+  id:: 62122a7d-4e89-4ece-a6c3-ce701d5cd50c
+  [[客户数据]]   [📌](<http://localhost:7026/reading/15?title=今年黑五、网一频繁售罄的 Instant Pot 是怎么来的？- 雨果网#id=1645178574404>)#instantpot
+- instantpot 的售价在 50-150 美元之间。
+  id:: 62122a7d-57f1-43e1-9bc0-d11174022c8e
+  [[产品数据]]   [📌](<http://localhost:7026/reading/15?title=今年黑五、网一频繁售罄的 Instant Pot 是怎么来的？- 雨果网#id=1645178717478>)#instantpot
+- 2008 年，instantpot 的 CEO Wang就已经在自己联合创业的公司，他发现很难获得融资，又发现他因工作节奏快，只能给孩子点不健康的外卖，随机萌发创业的想法。
+  id:: 62122a7d-fe0f-4d0c-aa60-8da97ef86141
+  [[关键人物信息]]  [[公司信息]]   [📌](<http://localhost:7026/reading/15?title=今年黑五、网一频繁售罄的 Instant Pot 是怎么来的？- 雨果网#id=1645178984542>)#instantpot
+- 09 年创办 instantpot，10 年 10 月上线第一款 instantpot。第一批客户是亲人和朋友。在卖出后继续收集改进信息，例如加入了过热保护。到了 13 年 1 月，第二代产品就成为了亚马逊高压锅品类畅销产品。
+  id:: 62122a7d-b37a-4f5d-9bfb-7e41f67fa5ee
+  [[公司信息]]  [[发展历程]]   [📌](<http://localhost:7026/reading/15?title=今年黑五、网一频繁售罄的 Instant Pot 是怎么来的？- 雨果网#id=1645179155308>)#instantpot
+- instantpot 的 CEO Wang 说他只关注研发和客服，本质上是因为他是基于亚马逊平台的公司，客户触达的工作主要由亚马逊完成。客服部分他主要关注产品差评，他会看每条评论，那是他创新的来源，也是他的特别之处。
+  id:: 62122a7d-5476-49b8-8731-3e557a1367b2
+  [[成功的原因]]  [[创始人信息]]   [📌](<http://localhost:7026/reading/15?title=今年黑五、网一频繁售罄的 Instant Pot 是怎么来的？- 雨果网#id=1645179519574>)#instantpot
