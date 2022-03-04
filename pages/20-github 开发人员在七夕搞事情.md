@@ -1,6 +1,0 @@
-- tags: #[[SimpRead]]
-- read date: [[2022-02-21  ]]
-- desc: 1 问题描述如果你在七夕（没错就是2020年8月14日）的这一天刚好加班，又刚好去访问了全球最大的同性交友网站，又刚好去更新提交代码，又或你创建了一个新的仓库送给自己，又刚好想把这个仓库送给（push）github，你就刚好会遇到这个问题：remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.具体如下：(yolov4)
-- note:
-- [📌](<http://localhost:7026/reading/20?title=github 开发人员在七夕搞事情：remote- Support for password authentication was removed on August 13, 2021._星空 - CSDN 博客_github 七夕#id=1645427967838>)
--
